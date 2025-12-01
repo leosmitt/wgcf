@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/ViRb3/wgcf/v2/config"
-	"github.com/ViRb3/wgcf/v2/openapi"
-	"github.com/ViRb3/wgcf/v2/util"
-	"github.com/ViRb3/wgcf/v2/wireguard"
+	"github.com/leosmitt/wgcf/v2/config"
+	"github.com/ViRb3/leosmitt/v2/openapi"
+	"github.com/ViRb3/leosmitt/v2/util"
+	"github.com/ViRb3/leosmitt/v2/wireguard"
 	"github.com/cockroachdb/errors"
 )
 
